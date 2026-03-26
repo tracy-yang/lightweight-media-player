@@ -1,0 +1,8 @@
+body {
+    width: 800px;
+    height: 480px;
+}
+#root {
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,6 @@
+.play {
+    cursor: pointer;
+}
+.play > i {
+    font-size: 22px;
+}

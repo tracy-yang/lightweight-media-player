@@ -1,0 +1,44 @@
+.resolution {
+    position: relative;
+}
+.resolution-name {
+    font-size: 14px;
+    font-weight: 600;
+    user-select: none;
+    cursor: pointer;
+}
+
+.resolution-menu {
+    position: absolute;
+    left: 50%;
+    bottom:36px;
+    transform: translateX(-50%);
+    min-width: 148px;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    background-color: hsla(0, 0%, 8%, .9);
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.resolution-menu.hidden {
+    display: none;
+}
+
+.resolution-menu-item {
+    position: relative;
+    height: 36px;
+    line-height: 36px;
+    cursor: pointer;
+}
+.resolution-menu-item:hover {
+    background-color: hsla(0, 0%, 100%, .1);
+}
+
+.resolution-menu-item.active {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+

@@ -1,0 +1,44 @@
+.playback-rate {
+    position: relative;
+}
+
+.playback-rate-name {
+    font-size: 14px;
+    font-weight: 600;
+    user-select: none;
+    cursor: pointer;
+}
+
+.playback-rate-menu {
+    position: absolute;
+    left: 50%;
+    bottom:36px;
+    transform: translateX(-50%);
+    width: 70px;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    background-color: hsla(0, 0%, 8%, .9);
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.playback-rate-menu.hidden {
+    display: none;
+}
+
+.playback-rate-menu-item {
+    position: relative;
+    height: 36px;
+    line-height: 36px;
+    cursor: pointer;
+}
+
+.playback-rate-menu-item:hover {
+    background-color: hsla(0, 0%, 100%, .1);
+}
+
+.playback-rate-menu-item.active {
+    color: var(--primary-color);
+    font-weight: 600;
+}

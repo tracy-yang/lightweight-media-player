@@ -1,0 +1,42 @@
+.volume {
+    position: relative;
+}
+.volume-name {
+    font-size: 14px;
+    font-weight: 600;
+    user-select: none;
+    cursor: pointer;
+}
+
+.volume-menu-name {
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.volume-range-wrap{
+    position: absolute;
+    left: 50%;
+    bottom:36px;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    height: 160px;
+    width: 40px;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    background-color: hsla(0, 0%, 8%, .9);
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.volume-number {
+    margin-bottom: 6px;
+}
+
+.volume-range-wrap.hidden {
+    display: none;
+}

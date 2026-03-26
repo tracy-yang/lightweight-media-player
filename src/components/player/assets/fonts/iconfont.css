@@ -1,0 +1,115 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4670661 */
+  src: url('iconfont.woff2?t=1725799924581') format('woff2'),
+       url('iconfont.woff?t=1725799924581') format('woff'),
+       url('iconfont.ttf?t=1725799924581') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fullscreen-fill:before {
+  content: "\e623";
+}
+
+.icon-exit-fullscreen-rectangle:before {
+  content: "\e64b";
+}
+
+.icon-exit-fullscreen-fill:before {
+  content: "\e659";
+}
+
+.icon-fullscreen-rectangle:before {
+  content: "\e647";
+}
+
+.icon-fullscreen-shrink:before {
+  content: "\e676";
+}
+
+.icon-fullscreen-expand:before {
+  content: "\e677";
+}
+
+.icon-fullscreen-expand-filling:before {
+  content: "\e68a";
+}
+
+.icon-mute-outline:before {
+  content: "\e662";
+}
+
+.icon-volume-outline:before {
+  content: "\e663";
+}
+
+.icon-voice3-01:before {
+  content: "\e665";
+}
+
+.icon-volume:before {
+  content: "\e667";
+}
+
+.icon-mute:before {
+  content: "\e668";
+}
+
+.icon-camera:before {
+  content: "\e669";
+}
+
+.icon-camera-outline:before {
+  content: "\e66a";
+}
+
+.icon-no-camera:before {
+  content: "\e66b";
+}
+
+.icon-no-camera-outline:before {
+  content: "\e66c";
+}
+
+.icon-microphone:before {
+  content: "\e66d";
+}
+
+.icon-microphone-outline:before {
+  content: "\e66e";
+}
+
+.icon-off-microphone-line:before {
+  content: "\e66f";
+}
+
+.icon-off-microphone:before {
+  content: "\e670";
+}
+
+.icon-player-back:before {
+  content: "\e671";
+}
+
+.icon-player-stop:before {
+  content: "\e672";
+}
+
+.icon-player-next:before {
+  content: "\e673";
+}
+
+.icon-player:before {
+  content: "\e674";
+}
+
+.icon-pause:before {
+  content: "\e675";
+}
+

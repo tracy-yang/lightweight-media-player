@@ -1,0 +1,184 @@
+{
+  "id": "4670661",
+  "name": "player",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9512567",
+      "name": "fullscreen-fill",
+      "font_class": "fullscreen-fill",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "9745426",
+      "name": "exit-fullscreen-rectangle",
+      "font_class": "exit-fullscreen-rectangle",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "10330628",
+      "name": "exit-fullscreen-fill",
+      "font_class": "exit-fullscreen-fill",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "20219086",
+      "name": "fullscreen-rectangle",
+      "font_class": "fullscreen-rectangle",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "15838495",
+      "name": "fullscreen-shrink",
+      "font_class": "fullscreen-shrink",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "15838498",
+      "name": "fullscreen-expand",
+      "font_class": "fullscreen-expand",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "15838601",
+      "name": "fullscreen-expand-filling",
+      "font_class": "fullscreen-expand-filling",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "23920487",
+      "name": "mute-outline",
+      "font_class": "mute-outline",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "23920490",
+      "name": "volume-outline",
+      "font_class": "volume-outline",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "23920502",
+      "name": "97-voice3",
+      "font_class": "voice3-01",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "23920550",
+      "name": "volume",
+      "font_class": "volume",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "23920588",
+      "name": "mute",
+      "font_class": "mute",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "23920592",
+      "name": "camera",
+      "font_class": "camera",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "23920593",
+      "name": "camera-outline",
+      "font_class": "camera-outline",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "23920594",
+      "name": "no-camera",
+      "font_class": "no-camera",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "23920595",
+      "name": "no-camera-outline",
+      "font_class": "no-camera-outline",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "23920601",
+      "name": "microphone",
+      "font_class": "microphone",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "23920602",
+      "name": "microphone-outline",
+      "font_class": "microphone-outline",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "23920603",
+      "name": "off-microphone-line",
+      "font_class": "off-microphone-line",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "23920604",
+      "name": "off-microphone",
+      "font_class": "off-microphone",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "24158990",
+      "name": "player-back",
+      "font_class": "player-back",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "24158991",
+      "name": "player-stop",
+      "font_class": "player-stop",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "24158993",
+      "name": "player-next",
+      "font_class": "player-next",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "24158995",
+      "name": "player",
+      "font_class": "player",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "24159151",
+      "name": "pause",
+      "font_class": "pause",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    }
+  ]
+}

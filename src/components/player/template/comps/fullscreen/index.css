@@ -1,0 +1,6 @@
+.fullscreen {
+  cursor: pointer;
+}
+.fullscreen > i {
+  font-size: 18px;
+}

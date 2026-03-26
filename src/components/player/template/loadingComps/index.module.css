@@ -1,0 +1,23 @@
+
+
+.player-loading-panel {
+    position: absolute;
+    inset: 0;
+    z-index: 99;
+    background: var(--player-bg);
+}
+
+.player-loading-panel__icon-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.player-loading-panel-icon {
+    width: 140px;
+    height: 80px;
+    background: url('../../assets/images/loading.gif') no-repeat center;
+    background-size: contain;
+}
